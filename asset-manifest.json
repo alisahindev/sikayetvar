@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sikayetvar/static/css/main.7fe83a9a.chunk.css",
+    "main.js": "/sikayetvar/static/js/main.0f9c5538.chunk.js",
+    "main.js.map": "/sikayetvar/static/js/main.0f9c5538.chunk.js.map",
+    "runtime-main.js": "/sikayetvar/static/js/runtime-main.0ba83100.js",
+    "runtime-main.js.map": "/sikayetvar/static/js/runtime-main.0ba83100.js.map",
+    "static/css/2.383c0125.chunk.css": "/sikayetvar/static/css/2.383c0125.chunk.css",
+    "static/js/2.dc97eefb.chunk.js": "/sikayetvar/static/js/2.dc97eefb.chunk.js",
+    "static/js/2.dc97eefb.chunk.js.map": "/sikayetvar/static/js/2.dc97eefb.chunk.js.map",
+    "index.html": "/sikayetvar/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/sikayetvar/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.7fe83a9a.chunk.css.map": "/sikayetvar/static/css/main.7fe83a9a.chunk.css.map",
+    "static/js/2.dc97eefb.chunk.js.LICENSE.txt": "/sikayetvar/static/js/2.dc97eefb.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/sikayetvar/static/media/BG.ccd6d8cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba83100.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.dc97eefb.chunk.js",
+    "static/css/main.7fe83a9a.chunk.css",
+    "static/js/main.0f9c5538.chunk.js"
+  ]
+}
