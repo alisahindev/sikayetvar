@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  .login-btn {
+    background: #ffffff;
+    box-shadow: 0px 4px 6px rgba(50, 50, 93, 0.11),
+      0px 1px 3px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.875rem;
+    line-height: 19px;
+    letter-spacing: 0.4px;
+    color: #5e72e4;
+  }
+  .left-side-logo {
+    margin-right: 3.125rem;
+  }
+  .path {
+    font-size: 0.875rem;
+    line-height: 19px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+    opacity: 0.95;
+  }
+}
